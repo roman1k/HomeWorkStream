@@ -52,6 +52,8 @@ public class Computer {
         this.processorList = processors;
     }
 
+    Computer computer = new Computer();
+
 
 
 
