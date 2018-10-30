@@ -13,6 +13,7 @@ import java.util.List;
 @NoArgsConstructor
 public class HardDrive {
     //dhfjdshfjdfjsffsdfsdfds
+    //Ihor
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     public  int id ;
