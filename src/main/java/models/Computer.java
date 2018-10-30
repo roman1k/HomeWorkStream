@@ -52,7 +52,9 @@ public class Computer {
         this.processorList = processors;
     }
 
-    Computer computer = new Computer();
+
+    private static final int  hgf5433 = 82;
+    // я тут написав
 
 
 
