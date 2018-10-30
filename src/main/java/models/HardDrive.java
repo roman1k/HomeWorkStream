@@ -12,6 +12,7 @@ import java.util.List;
 @Entity
 @NoArgsConstructor
 public class HardDrive {
+    //dhfjdshfjdfjsffsdfsdfds
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     public  int id ;
